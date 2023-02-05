@@ -3,7 +3,7 @@
 #NOTES: 
 - Tanimoto program was moved inside a jupyter notebook
 - The program is no more limited to only 15 entries
-- Compound names compare in the heat maps
+- Compound names compare in the heatmaps
 - Panda was removed as not essential and routines rewritten in pure python
 
 ### Introduction
@@ -27,8 +27,6 @@ It requires Python3. This script uses RDKit and some additional packages. Instal
 ```pip3 install seaborn```
 
 ```sudo apt-get install python3-matplotlib```
-
-```conda install pandas```
 
 ```pip3 install numpy```
 
