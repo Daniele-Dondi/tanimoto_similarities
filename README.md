@@ -3,7 +3,7 @@
 #NOTES: 
 - Tanimoto program was moved inside a jupyter notebook
 - The program is no more limited to only 15 entries
-- The compound name compare in the heat maps
+- Compound names compare in the heat maps
 - Panda was removed as not essential and routines rewritten in pure python
 
 ### Introduction
