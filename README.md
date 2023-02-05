@@ -1,5 +1,7 @@
 # Tanimoto Similarities: Python script to perform fingerprinting and calculate Tanimoto similarities on multiple compounds using RDKit.
 
+#NOTES: SOME AS THE ORIGINAL FILE BUT NOT LIMITED TO 15 COMPOUNDS. IN THE HEAT GRAPH NAMES COMPARE
+
 ### Introduction
 tanimoto_similarities.py script calculates Tanimoto similarities of given molecules in the form of smiles.
 
