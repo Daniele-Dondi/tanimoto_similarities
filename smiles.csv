@@ -1,8 +1,8 @@
 ,Ligand_name,SMILES
-1,idarubicin,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
-2,bicalutamide,CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O 
-3,teniposide,COC1=CC(=CC(=C1O)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@@H](C4=CC5=C(C=C24)OCO5)O[C@H]6[C@@H]([C@H]([C@H]7[C@H](O6)CO[C@H](O7)C8=CC=CS8)O)O
-4,camptothecin,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=CC=CC=C5N=C4C3=C2)O
+1,adenine,C1=NC2=NC=NC(=C2N1)N
+2,thymine,CC1=CNC(=O)NC1=O 
+3,guanine,C1=NC2=C(N1)C(=O)NC(=N2)N
+4,cytosine,C1=C(NC(=O)N=C1)N
 5,JMS-053,C1=CC=C(C=C1)C2=CC3=C(S2)C(=N)C(=O)NC3=O
 6,etoposide,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O
 7,azt,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-]
