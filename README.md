@@ -5,6 +5,7 @@
 - The program is no more limited to only 15 entries
 - Compound names compare in the heatmaps
 - Panda was removed as not essential and routines rewritten in pure python
+- Increased the resolution of outputted graphs (now ready for papers)
 
 ### Introduction
 tanimoto_similarities.py script calculates Tanimoto similarities of given molecules in the form of smiles.
